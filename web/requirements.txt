@@ -3,5 +3,5 @@ networkx==3.1
 numpy==1.24.3
 pandas==2.0.1
 pyecharts==2.0.3
-streamlit==1.22.0
+streamlit==1.30.0
 streamlit-echarts==0.4.0
